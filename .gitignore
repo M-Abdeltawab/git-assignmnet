@@ -1,0 +1,9 @@
+*.tmp
+*.log
+*.lock
+*.o
+node_modules/
+.env
+bin/
+out/
+target/
